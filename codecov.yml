@@ -1,0 +1,2 @@
+fixes:
+  - "/Users/subhibeidas/workspace/tracing-js/dist/::"  # move path   e.g., "before/path" => "after/path"
